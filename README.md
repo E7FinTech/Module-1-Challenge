@@ -1,4 +1,4 @@
-#  **Fundrise** - <mark>An Emerging Real Estate & Financial Services Company</mark>
+#  **Fundrise** - <mark> An Emerging Real Estate & Financial Services Company </mark>
 
 
 ## Overview and Origin
