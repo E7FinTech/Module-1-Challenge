@@ -69,7 +69,7 @@ Today, other real estate crowdfunding companies exist. And the market is becomin
 
 Fintech breakthroughs by **Fundrise** now penetrate barriers once allowed only by accredited investors — people with a net worth exceeding $1,000,000 or income over $200,000 ($300,000 for married couples). The U.S. government does not allow smaller investors the same opportunities as wealthier investors. Fortunately, now more real estate crowdfunding companies allow non-accredited investors to participate *(Moneycrashers 2022)*.
 
-* Annual Yield Returns and Dividends are used as performance metrics for this emerginging domain.  For cumulative real-time returns of client accounts, visit: https://fundrise.com/client-returns
+* Annual Yield Returns and Dividends are used as performance metrics for this emerging domain.  For cumulative real-time returns of client accounts, visit: https://fundrise.com/client-returns
 
 ![alt text](Fundrise_RealTime.png)
 
